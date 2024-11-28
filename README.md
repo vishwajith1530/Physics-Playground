@@ -2,10 +2,10 @@
 
 <table>
 <tr><td>
-<img width="200" src="https://github.com/lisawray/physics-playground/blob/master/images/chained_springs.gif?raw=true"/>
+<img width="200" src="https://github.com/vishwajith1530/physics-playground/blob/master/images/chained_springs.gif?raw=true"/>
 </td>
 <td>
-<img width="200" src="https://github.com/lisawray/physics-playground/blob/master/images/chained_springs_ui.gif?raw=true"/>
+<img width="200" src="https://github.com/vishwajith1530/physics-playground/blob/master/images/chained_springs_ui.gif?raw=true"/>
 </td>
 </tr>
 </table>
@@ -34,5 +34,5 @@ Examples where animations simultaneously interact.
 - Chained springs (balls)
 - Chained springs (UI example) *
 
-* This example inspired (with apologies) by a screen in Plaid, by <a href="https://twitter.com/crafty">Nick Butcher</a>. Check out his original: https://github.com/nickbutcher/plaid
+* This example inspired (with apologies) by a screen in Plaid, by <a href="[https://github.com/vishwajith1530]">Vishwajith Rajendran</a>. Check out his original: https://github.com/vishwajith1530
 
